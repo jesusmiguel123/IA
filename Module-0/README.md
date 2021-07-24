@@ -11,3 +11,4 @@
 ```
 python run_tests.py
 ```
+La imágenes generadas en Visdom estan en la carpeta Project
