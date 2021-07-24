@@ -18,4 +18,5 @@ cp ../Module-0/operators.py ../Module-0/module.py minitorch/
 ```
 python run_tests.py
 ```
+La imágenes generadas en Visdom estan en la carpeta Project
 
